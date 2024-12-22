@@ -7,6 +7,7 @@ const options = [
   { value: "asia", label: "Asia" },
   { value: "europe", label: "Europe" },
   { value: "oceania", label: "Oceania" },
+  { value: "america", label: "Americas" },
 ];
 
 const RegionMenu = ({ countriesList, filterCountriesList }) => {
